@@ -11,10 +11,8 @@
 <div class="container">
     <h1>Python: Basics to Advanced</h1>
     <p>Welcome to the "Python: Basics to Advanced" guide. This documentation is designed to help you journey through the world of Python, from the fundamentals to mastering more advanced concepts and applications.</p>
-
     <h2>Introduction</h2>
     <p>Python is a versatile and powerful programming language that is widely used for web development, data analysis, artificial intelligence, and more. Its simple syntax makes it a great language for beginners, while its wide range of libraries and frameworks allows more experienced developers to tackle complex projects.</p>
-
     <h2>Table of Contents</h2>
     <ul>
         <li>1. Introduction to Python</li>
@@ -29,7 +27,6 @@
         <li>10. Data Science and Machine Learning</li>
         <li>11. Web Development with Python</li>
     </ul>
-
     <h2>Why Python?</h2>
     <p>Python's popularity stems from several key features:</p>
     <ul>
@@ -38,10 +35,8 @@
         <li><strong>Community:</strong> Python has an enormous community of developers who contribute to its ever-growing pool of resources and tools.</li>
         <li><strong>Cross-Platform:</strong> Python works across different operating systems, including Windows, macOS, and Linux.</li>
     </ul>
-
     <h2>Getting Started</h2>
     <p>To begin your Python journey, you need to install Python on your system. Follow the steps below to install Python and set up your development environment:</p>
-
     <pre><code># On Windows
 1. Download Python from the official website: <a href="https://www.python.org/downloads/">python.org</a>
 2. Run the installer and make sure to check "Add Python to PATH" during installation.
